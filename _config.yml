@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B8B8'
+    - '#000000'
+    - '#807878'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.3318981380164643
+  lightness: 0.27277955403099063
+  rhythmicContrast: 0.15254304794853013
+  saturation: 0.4343461983886652
+cta: {}
+layout_spectrum: 0.6551463470474567
+name: the republic of chocolate
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.613739
