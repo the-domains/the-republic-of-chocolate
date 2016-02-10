@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the republic of chocolate]]></title>
+        <description><![CDATA[the republic of chocolate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 03:11:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ff33cf6-c9ec-4711-9a08-9789d470bd2e.jpg">]]></description>
+            <link>undefined1d8fabc4-702c-439e-884f-508f296e1fc0/index.html</link>
+            <guid isPermaLink="false">1d8fabc4-702c-439e-884f-508f296e1fc0</guid>
+            <pubDate>Wed, 10 Feb 2016 03:10:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
