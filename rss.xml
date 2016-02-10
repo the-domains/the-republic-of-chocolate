@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[the republic of chocolate]]></title>
         <description><![CDATA[the republic of chocolate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-republic-of-chocolate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 03:11:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 04:30:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-republic-of-chocolate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ff33cf6-c9ec-4711-9a08-9789d470bd2e.jpg">]]></description>
-            <link>undefined1d8fabc4-702c-439e-884f-508f296e1fc0/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3356742-3c68-4c03-a138-d8fdcfbc99e8.jpg">]]></description>
+            <link>https://thegrid.ai/the-republic-of-chocolate/1d8fabc4-702c-439e-884f-508f296e1fc0/index.html</link>
             <guid isPermaLink="false">1d8fabc4-702c-439e-884f-508f296e1fc0</guid>
-            <pubDate>Wed, 10 Feb 2016 03:10:19 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 04:23:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
