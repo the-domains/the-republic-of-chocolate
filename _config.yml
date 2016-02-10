@@ -1,4 +1,19 @@
-analytics: {}
+name: the republic of chocolate
+favicon: null
+layout_spectrum: 0.82936
+typography_spectrum: 0.59538
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B8B8'
@@ -6,13 +21,11 @@ color:
     - '#807878'
     - '#000000'
     - '#000000'
-  brandStrength: 0.3318981380164643
+  brandStrength: 0.3125
   lightness: 0.27277955403099063
-  rhythmicContrast: 0.15254304794853013
   saturation: 0.4343461983886652
-cta: {}
-layout_spectrum: 0.655146
-name: the republic of chocolate
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.613739
+  rhythmicContrast: 0.15254304794853013
+purpose:
+  - name: null
+    item: null
+    url: null
