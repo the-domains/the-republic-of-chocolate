@@ -1,6 +1,6 @@
 name: the republic of chocolate
 favicon: null
-layout_spectrum: 0.82936
+layout_spectrum: 0.97092
 typography_spectrum: 0.59538
 cta:
   domain: null
@@ -21,10 +21,10 @@ color:
     - '#807878'
     - '#000000'
     - '#000000'
-  brandStrength: 0.3125
-  lightness: 0.27277955403099063
-  saturation: 0.4343461983886652
-  rhythmicContrast: 0.15254304794853013
+  brandStrength: 0.4375
+  lightness: 0.625
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
